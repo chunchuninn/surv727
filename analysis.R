@@ -6,3 +6,4 @@ public_data <- read.csv("data/public_data.csv")
 # Add your code here on your own branch.
 summary(public_data)
 
+mean(public_data$Scores)
